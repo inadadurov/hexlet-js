@@ -1,0 +1,23 @@
+{
+  "name": "hexlet-js",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "course 6 lesson 4 homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inadadurov/hexlet-js.git"
+  },
+  "author": "Ilia Adadurov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inadadurov/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/inadadurov/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
